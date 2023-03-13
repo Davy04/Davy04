@@ -1,6 +1,5 @@
 ### Olá, eu sou o Davy Woolley 👋
 
-- 🔭 Estou atualmente trabalhando com Desenvolvimento Web
 - 🌱 Estou atualmente estudando C# e Unity
 
 <div align="center">
