@@ -1,7 +1,5 @@
 ### Olá, eu sou o Davy Woolley 👋
 
-- 🌱 Estou atualmente estudando C# e Unity
-
 <div align="center">
   <a href="https://github.com/Davy04">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Davy04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
